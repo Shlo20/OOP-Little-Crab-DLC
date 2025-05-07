@@ -1,4 +1,4 @@
-        Little Crab (version 5)
+        Little Crab (version 5) with boss King crab
         ===========
         
 This scenario is part of the book 
