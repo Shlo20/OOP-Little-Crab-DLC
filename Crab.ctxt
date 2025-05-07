@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Crab
+comment0.text=\r\n\ This\ class\ defines\ a\ crab.\ Crabs\ live\ on\ the\ beach.\ They\ like\ sand\ worms\ \r\n\ (very\ yummy,\ especially\ the\ green\ ones).\r\n\ \r\n\ Version\:\ 5\r\n\ \r\n\ In\ this\ version,\ the\ crab\ behaves\ as\ before,\ but\ we\ add\ animation\ of\ the\ \r\n\ image.\r\n
+comment1.params=
+comment1.target=Crab()
+comment1.text=\r\n\ Create\ a\ crab\ and\ initialize\ its\ two\ images.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\ \r\n\ Act\ -\ do\ whatever\ the\ crab\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ \ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ edgecorner()
+comment4.params=
+comment4.target=void\ switchImage()
+comment4.text=\r\n\ Alternate\ the\ crab's\ image\ between\ image1\ and\ image2.\r\n
+comment5.params=
+comment5.target=void\ checkKeypress()
+comment5.text=\r\n\ Makes\ the\ crab\ move\ based\ with\ WASD.\r\n
+comment6.params=
+comment6.target=void\ lookForWorm()
+comment6.text=\r\n\ Check\ whether\ we\ have\ stumbled\ upon\ a\ worm.\r\n\ If\ we\ have,\ eat\ it.\ If\ not,\ do\ nothing.\ If\ we\ have\r\n\ eaten\ eight\ worms,\ we\ win.\r\n
+comment7.params=
+comment7.target=void\ checkSpawnBoss()
+comment7.text=\r\n\ Check\ if\ all\ worms\ are\ collected\ and\ spawn\ KingCrab\ if\ not\ already\ spawned.\r\n
+comment8.params=
+comment8.target=void\ attack()
+comment8.text=\r\n\ Crab\ attack\ with\ spacebar\ slaps\ KingCrab.\r\n
+numComments=9
